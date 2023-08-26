@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "stopcoll",
+    "slug": "stopcoll",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "stopcoll"
+}
